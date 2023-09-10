@@ -1,0 +1,4 @@
+#Import_Winter
+from PIL import Image
+myImage = Image.open("Winter.png");
+myImage.show();
